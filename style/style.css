@@ -35,6 +35,7 @@
 
 .container div:nth-child(-n + 4) {
   background-color: lavender;
+  border-top: none;
 }
 
 .container > div {
